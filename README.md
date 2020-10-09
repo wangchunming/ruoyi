@@ -1,3 +1,5 @@
+DEV 
+
 ## 平台简介
 
 * 前端采用Vue、Element UI。
